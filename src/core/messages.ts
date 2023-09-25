@@ -1,0 +1,22 @@
+export const messages = { 
+    FIELDS_REQUIRED : "Please Provide the required Fields.",
+    USER_ALREADY_EXISTS : "User with this email Already Exists.",
+    SIGNUP_SUCCESS : 'Signup Successful',
+    USER_NOT_FOUND : "No user found with the provided email.",
+    LOGGED_IN : "User Logged In.",
+    NOT_FOUND : "Not Found.",
+    PERMISSION_DENIED : "You dont have permission to perform this action!",
+    ALREADY_EXISTS: "Already Exists",
+    DEPARTMENT_ADDED: "Department added Successfully",
+    TRY_LATER: "Try again later",
+    SUCCESS: "Success",
+    PASSWORD_NE_CONFIRM_PASS: "Password does not match with confirm password.",
+    NOT_EMPLOYEE: "Not an employee email. Please ask your employer to provide one.",
+    USER_ACCOUNT_NOT_ACTIVE: "It seems there is an issue with your account. Please contact Admin for assistance.",
+    EMAIL_UNAVAILABLE: "Email unavailable",
+    PASSWORD_TOO_SHORT: "Password should be atleast 8 Characters long",
+    PASSWORD_CHANGED: "Password Changed successfully",
+    PASSWORD_MISMATCH: "Password mismatched. Please try again",
+    UNSUPPORTED_FILE_FORMAT: "Please make sure Files uploaded are of type .pdf or .doc or jpg/jpeg or png",
+
+}
